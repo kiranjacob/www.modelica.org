@@ -45,6 +45,9 @@ issued on <!-- TODO: issue date -->
 ## Conferences and user meetings
 
 <!-- TODO: Conferences and user meetings -->
+### Building a Modelica Users Group in India
+ 
+Modelica is used across India, but its users rarely meet, so we are starting a Modelica Users Group India. It began with a LinkedIn post asking who was interested, and the response was overwhelming. The group is open to every tool, from OpenModelica to Dymola, SimulationX and Wolfram SystemModeler, and to every experience level. First steps are a kickoff meetup, hands-on workshops and webinars, plus shared models and case studies. We also want closer ties with the global Modelica community. To join, speak or host a session, fill in the short form at https://lnkd.in/eZ7WGFgV
 
 <!-- END Conferences and user meetings -->
 
